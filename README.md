@@ -1,6 +1,6 @@
 # EARNET Project
- The ICO contracts of [EARNET project](https://earnet.io/).
- If you have any questions, please connect with us on our social channels.
+- The ICO contracts of [EARNET project](https://earnet.io/).
+- If you have any questions, please connect with us on our social channels.
 ## Contracts  
 1. EarnetToken
     - The contract of the standard token.
