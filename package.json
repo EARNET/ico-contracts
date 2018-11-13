@@ -1,0 +1,31 @@
+{
+  "name": "ico-contracts",
+  "version": "1.0.0",
+  "description": "# Prerequisite",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanayou-limited/ico-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanayou-limited/ico-contracts/issues"
+  },
+  "homepage": "https://github.com/nanayou-limited/ico-contracts#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "truffle-hdwallet-provider": "0.0.3",
+    "zeppelin-solidity": "^1.9.0"
+  },
+  "devDependencies": {}
+}
