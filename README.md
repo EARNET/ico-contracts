@@ -112,7 +112,7 @@
 ---
 ## Code audit
 - Code audit company
-    - Tecotec Co.Ltd
+    - Tecotec Co.Ltd.
 - Code audit date
-    - ** Nov, 2018
-    - [Earnet ICO Contract Code Audit Report](https://earnet.io/)
+    - 05 Nov, 2018
+    - [Earnet Token Contract Code Audit Report](https://earnet.io/wp-content/themes/tmpl001/assets/report/ERN_AuditReport_20181113.pdf)
